@@ -20,7 +20,14 @@ I enjoy solving business problems using data, creating dashboards, automating re
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
 
 ### 👨‍💼 Employee Performance & Project Cost Analysis
-Used Python Pandas and NumPy for cleaning, merging, and analyzing employee datasets with bonus and promotion logic.
+Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
+
+Tools & Technologies Used:
+Python
+Pandas
+NumPy
+Jupyter Notebook
+
 
 ### 📊 Store Performance Dashboard
 Developed Power BI dashboard to track quarterly performance, KPIs, and forecasting.
