@@ -17,12 +17,14 @@ I enjoy solving business problems using data, creating dashboards, automating re
 ## 📂 Featured Projects
 
 ### ✈️ Airline Booking & Connecting Flights Analysis
-    Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
-    [Design:Airline Booking and Conecting Flights Analysis]
-     Technologies Used:
-     SQL (for database design & queries)
-     Relational Database Concepts
-     ER Modeling
+Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
+ 
+[Design:Airline Booking and Conecting Flights Analysis](SQL_Project.png)
+
+Technologies Used:
+SQL (for database design & queries)
+Relational Database Concepts
+ER Modeling
 
 ### 👨‍💼 Employee Performance & Project Cost Analysis
 Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
