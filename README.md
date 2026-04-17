@@ -41,7 +41,7 @@ Jupyter Notebook
 ### 📊 Store Performance Dashboard(Power BI)
 Developed Power BI dashboard to track quarterly performance, KPIs, and forecasting.
 
-[Design:Shopnet Store Performance Dashboard]
+[Design:Shopnet Store Performance Dashboard](PowerBI_Dashboard.png)
 
 Skills used:
 Power BI
