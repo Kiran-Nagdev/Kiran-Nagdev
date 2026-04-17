@@ -16,7 +16,7 @@ I enjoy solving business problems using data, creating dashboards, automating re
 - Excel (Pivot Tables, Power Query, Lookup Functions)
 ## 📂 Featured Projects
 
-### ✈️ Airline Booking & Connecting Flights Analysis
+### ✈️ Airline Booking & Connecting Flights Analysis(SQL)
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
  
  [Design:Airline Booking & Conecting Flights Analysis](SQL_Project.png)
@@ -26,7 +26,7 @@ SQL (for database design & queries)
 Relational Database Concepts
 ER Modeling
 
-### 👨‍💼 Employee Performance & Project Cost Analysis
+### 👨‍💼 Employee Performance & Project Cost Analysis(Python)
 Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
 
 [Code:Employee Performance & Project Cost Analysis](Project.ipynb)
@@ -38,6 +38,17 @@ NumPy
 Jupyter Notebook
 
 
-### 📊 Store Performance Dashboard
+### 📊 Store Performance Dashboard(Power BI)
 Developed Power BI dashboard to track quarterly performance, KPIs, and forecasting.
+
+[Design:Shopnet Store Performance Dashboard]
+
+Skills used:
+Power BI
+DAX
+Data Modeling
+Power Query
+Data Visualization
+Dashboard Design
+
  
