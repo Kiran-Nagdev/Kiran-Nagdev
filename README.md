@@ -22,6 +22,8 @@ Built SQL database to manage complex bookings, multi-leg journeys, and layover l
 ### 👨‍💼 Employee Performance & Project Cost Analysis
 Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
 
+[Code:Employee Performance & Project Cost Analysis](Project.ipynb)
+
 Tools & Technologies Used:
 Python
 Pandas
