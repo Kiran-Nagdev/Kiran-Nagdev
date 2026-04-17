@@ -19,7 +19,7 @@ I enjoy solving business problems using data, creating dashboards, automating re
 ### ✈️ Airline Booking & Connecting Flights Analysis
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
  
-[Design:Airline Booking and Conecting Flights Analysis](SQL_Project.png)
+ [Design:Airline Booking & Conecting Flights Analysis](SQL_Project.png)
 
 Technologies Used:
 SQL (for database design & queries)
