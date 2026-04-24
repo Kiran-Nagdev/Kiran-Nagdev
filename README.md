@@ -18,6 +18,7 @@ I enjoy solving business problems using data, creating dashboards, automating re
 
 ###  Airline Booking & Connecting Flights Analysis(SQL)
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
+
 [Airline Booking & Connecting Flights](https://github.com/Kiran-Nagdev/SQL-Project.git)
  
 
@@ -32,16 +33,11 @@ Developed Power BI dashboard to track quarterly performance, KPIs, and forecasti
 
 [Store Performance Dashboard(Power BI)](https://github.com/Kiran-Nagdev/Power_BI-Project.git)
 
-Skills used:
-Power BI
-DAX
-Data Modeling
-Power Query
-Data Visualization
-Dashboard Design
+
 
 ### Service Delivery & SLA Performance Analysis (Excel Project)
 * Analyzed service delivery data and built an Excel dashboard to track SLA performance, identify delays, and optimize operations.
-[SLA Performance Analysis-Excel].(https://github.com/Kiran-Nagdev/Excel-Project.git)
+
+[SLA Performance Analysis-Excel](https://github.com/Kiran-Nagdev/Excel-Project.git)
 
  
