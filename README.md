@@ -30,7 +30,7 @@ Built SQL database to manage complex bookings, multi-leg journeys, and layover l
 ### 📊 Store Performance Dashboard(Power BI)
 Developed Power BI dashboard to track quarterly performance, KPIs, and forecasting.
 
-[Design:Shopnet Store Performance Dashboard](PowerBI_Dashboard.png)
+[Store Performance Dashboard(Power BI)](https://github.com/Kiran-Nagdev/Power_BI-Project.git)
 
 Skills used:
 Power BI
