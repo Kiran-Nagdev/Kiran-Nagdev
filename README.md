@@ -18,18 +18,13 @@ I enjoy solving business problems using data, creating dashboards, automating re
 
 ### ✈️ Airline Booking & Connecting Flights Analysis(SQL)
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
+[Airline Booking & Connecting Flights](https://github.com/Kiran-Nagdev/SQL-Project.git)
  
-
-
-Technologies Used:
-SQL (for database design & queries)
-Relational Database Concepts
-ER Modeling
 
 ### 👨‍💼 Employee Performance & Project Cost Analysis(Python)
 * Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
 
-[Employee Performance & Project Cost Analysis]https://github.com/Kiran-Nagdev/Power_BI-Project.git
+[Employee Performance & Project Cost Analysis](https://github.com/Kiran-Nagdev/Power_BI-Project.git)
 
 
 ### 📊 Store Performance Dashboard(Power BI)
