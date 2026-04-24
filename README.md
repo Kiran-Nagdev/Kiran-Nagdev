@@ -9,25 +9,25 @@ I enjoy solving business problems using data, creating dashboards, automating re
 - Helped recover $40K through data-backed analysis
 - Improved SLA adherence from 75% to 90%
 
-## 🛠 Technical Skills
+##  Technical Skills
 - SQL (Joins, Subqueries, CTEs, Window Functions)
 - Python (Pandas, NumPy, Matplotlib)
 - Power BI (Dashboards, KPIs, DAX Basics)
 - Excel (Pivot Tables, Power Query, Lookup Functions)
 ## 📂 Featured Projects
 
-### ✈️ Airline Booking & Connecting Flights Analysis(SQL)
+###  Airline Booking & Connecting Flights Analysis(SQL)
 Built SQL database to manage complex bookings, multi-leg journeys, and layover logic using joins and self joins.
 [Airline Booking & Connecting Flights](https://github.com/Kiran-Nagdev/SQL-Project.git)
  
 
-### 👨‍💼 Employee Performance & Project Cost Analysis(Python)
+### Employee Performance & Project Cost Analysis(Python)
 * Built an employee performance analytics system using Python, where project data is cleaned, transformed, and analyzed to generate insights like total contribution, bonuses, and designation changes.
 
 [Employee Performance & Project Cost Analysis](https://github.com/Kiran-Nagdev/Power_BI-Project.git)
 
 
-### 📊 Store Performance Dashboard(Power BI)
+###  Store Performance Dashboard(Power BI)
 Developed Power BI dashboard to track quarterly performance, KPIs, and forecasting.
 
 [Store Performance Dashboard(Power BI)](https://github.com/Kiran-Nagdev/Power_BI-Project.git)
